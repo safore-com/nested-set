@@ -1,4 +1,4 @@
-module github.com/longbridgeapp/nested-set
+module github.com/safore-com/nested-set
 
 go 1.18
 
